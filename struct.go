@@ -1,4 +1,4 @@
-package gorefl
+package goreflt
 
 import (
 	"fmt"
